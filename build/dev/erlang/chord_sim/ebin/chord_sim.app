@@ -8,6 +8,6 @@
                     input,
                     randomlib]},
     {description, ""},
-    {modules, [main]},
+    {modules, []},
     {registered, []}
 ]}.
